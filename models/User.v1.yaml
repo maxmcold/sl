@@ -1,0 +1,9 @@
+title: User
+type: object
+properties:
+  id:
+    type: string
+  Name:
+    type: string
+  Surname:
+    type: string
